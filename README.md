@@ -1,4 +1,4 @@
-# Autonomous Drone Simulation
+# Autonomous UAV Navigation Simulator using Python and ROS2
 
 An autonomous drone simulation project built using Python as part of my transition into Robotics and Artificial Intelligence.
 
